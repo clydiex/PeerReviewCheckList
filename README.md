@@ -1,10 +1,5 @@
-# PeerReviewCheckList
+# Peer Review Check List
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-  
 * Grammar	 
 * Plagiarism (Facts and Objectives)	 
 * Annotations for questions	 
